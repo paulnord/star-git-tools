@@ -74,7 +74,7 @@ and manipulated by the users as usual.
 The easiest way to get a local copy of the entire `star-sw` repository with the
 history of all changes is to do:
 
-    $ git clone https://github.com/<YOUR-USERNAME>/star-sw.git
+    $ git clone https://github.com/star-bnl/star-sw.git
 
 Then `cd` into the newly created directory, look around, and browse the history
 with one of the popular utilities, e.g. `gitk`, `tig` (usualy available along
